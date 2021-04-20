@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.snokido.com	TRUE	/	FALSE	1999999999	__cfduid	d767de49b8426b957f26e946642d445171618945212
+w8.snokido.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
